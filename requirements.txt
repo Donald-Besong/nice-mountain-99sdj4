@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+Pillow
+pydantic
+requests
+pytest
+black
+flake8
